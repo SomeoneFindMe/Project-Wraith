@@ -77,9 +77,12 @@ cd Project-Wraith
 ### 3. Run the Wraith Engine
 Ensure your `.apk` and `.json` files are ready, then launch the terminal interface.
 give the APK and json file path 
-like 
+like this 
+⚡👇👇👇
+```
 /storage/emulated/0/MT2/apks/vpnify_2.2.9_patched_sign.apk
 /storage/emulated/0/MT2/apks/Pairip.json
+```
 in display turmux 
 ```bash
 # Grant execution permissions (first time only)
