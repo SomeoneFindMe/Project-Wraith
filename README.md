@@ -32,7 +32,7 @@ Project Wraith is not just a standard terminal script; it is a highly advanced, 
 ## 🚀 How to Execute Locally
 
 ### 1. Pre-Processing (MT Manager)
-Before launching the script, you must manually merge the split APKs.
+
 1. Open **MT Manager** and locate your target `.apks` file.
 2. Tap on the file and select **View** (Do not install or open).
 3. Inside the archive, locate the `base.apk`. 
