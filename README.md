@@ -67,7 +67,8 @@ pkg install openjdk-21 -y
 pkg update && pkg upgrade -y
 pkg install openjdk-21 -y
 pkg install git -y
-git clone [https://github.com/SomeoneFindMe/Project-Wraith.git](https://github.com/SomeoneFindMe/Project-Wraith.git)
+git clone https://github.com/SomeoneFindMe/Project-Wraith.git
+git clone https://github.com/SomeoneFindMe/Project-Wraith.git
 
 ```
 
