@@ -63,17 +63,24 @@ pkg install openjdk-21 -y
 ```
 
 # Install Git and clone the Project Wraith repository
+if only master code only copy and paste 
+⚡⚡👇👇👇
 ```base
 pkg update && pkg upgrade -y
 pkg install openjdk-21 -y
 pkg install git -y
 git clone https://github.com/SomeoneFindMe/Project-Wraith.git
 git clone https://github.com/SomeoneFindMe/Project-Wraith.git
-
+# Grant execution permissions (first time only)
+chmod +x patcher.sh
+# Boot the interface
+./patcher.sh
 ```
 
 # Navigate into the project directory
+```base
 cd Project-Wraith
+```
 ### 3. Run the Wraith Engine
 Ensure your `.apk` and `.json` files are ready, then launch the terminal interface.
 give the APK and json file path 
@@ -83,11 +90,12 @@ like this
 /storage/emulated/0/MT2/apks/vpnify_2.2.9_patched_sign.apk
 /storage/emulated/0/MT2/apks/Pairip.json
 ```
-in display turmux 
+in any time use this command to run the c
 ```bash
+# move the location to Project-Wraith
+cd Project-Wraith
 # Grant execution permissions (first time only)
 chmod +x patcher.sh
-
 # Boot the interface
 ./patcher.sh
 ```
